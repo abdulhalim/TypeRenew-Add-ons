@@ -291,8 +291,3 @@ $__isRtl = (bool) preg_match('/^(fa|ar|he|ur|yi)([-_][A-Z]{2})?$/i', $__themeLan
 <p align="center">
   Made with ❤️ for the Persian-speaking TypeRenew community
 </p>
-
-<p align="center">
-  <a href="https://github.com/yourusername/TypeRenew-Add-ons/issues">Report Bug</a> •
-  <a href="https://github.com/yourusername/TypeRenew-Add-ons/issues">Request Feature</a>
-</p>
