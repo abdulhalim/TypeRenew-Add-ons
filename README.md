@@ -26,10 +26,7 @@
 
 <h2 id="english">🇬🇧 Complete RTL/LTR Support for TypeRenew</h2>
 
-<p align="center">
-  <a href="https://github.com/yourusername/TypeRenew-Add-ons/stargazers"><img src="https://img.shields.io/github/stars/yourusername/TypeRenew-Add-ons?style=social" alt="GitHub stars"></a>
-  <a href="https://github.com/yourusername/TypeRenew-Add-ons/network/members"><img src="https://img.shields.io/github/forks/yourusername/TypeRenew-Add-ons?style=social" alt="GitHub forks"></a>
-</p>
+
 
 ### 📖 Overview
 
@@ -161,10 +158,7 @@ $__isRtl = (bool) preg_match('/^(fa|ar|he|ur|yi)([-_][A-Z]{2})?$/i', $__themeLan
 
 <h2 id="persian">🇮🇷 راه‌حل کامل RTL/LTR برای TypeRenew</h2>
 
-<p align="center">
-  <a href="https://github.com/yourusername/TypeRenew-Add-ons/stargazers"><img src="https://img.shields.io/github/stars/yourusername/TypeRenew-Add-ons?style=social" alt="ستاره‌های گیت‌هاب"></a>
-  <a href="https://github.com/yourusername/TypeRenew-Add-ons/network/members"><img src="https://img.shields.io/github/forks/yourusername/TypeRenew-Add-ons?style=social" alt="فورک‌های گیت‌هاب"></a>
-</p>
+
 
 ### 📖 معرفی
 
