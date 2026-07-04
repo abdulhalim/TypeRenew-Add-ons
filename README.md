@@ -28,7 +28,7 @@
 ### 🖼️ Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulhalim/TypeRenew-Add-ons/refs/heads/main/typerenew_english_preview.webp" alt="TypeRenew English Preview" width="600">
+  <img src="https://raw.githubusercontent.com/abdulhalim/TypeRenew-Add-ons/refs/heads/main/typerenew_english_preview.webp" alt="TypeRenew English Preview" width="800">
 </p>
 
 ### 📖 Overview
@@ -164,7 +164,7 @@ $__isRtl = (bool) preg_match('/^(fa|ar|he|ur|yi)([-_][A-Z]{2})?$/i', $__themeLan
 ### 🖼️ پیش‌نمایش
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulhalim/TypeRenew-Add-ons/refs/heads/main/typerenew_persian_preview.webp" alt="پیش‌نمایش فارسی TypeRenew" width="600">
+  <img src="https://raw.githubusercontent.com/abdulhalim/TypeRenew-Add-ons/refs/heads/main/typerenew_persian_preview.webp" alt="پیش‌نمایش فارسی TypeRenew" width="800">
 </p>
 
 ### 📖 معرفی
