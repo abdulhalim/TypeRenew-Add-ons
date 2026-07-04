@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/License-GPL%20v2-blue.svg" alt="License">
   <img src="https://img.shields.io/badge/Font-OFL%201.1-green.svg" alt="Font License">
   <img src="https://img.shields.io/badge/Languages-fa__IR%20%7C%20en__US-orange.svg" alt="Languages">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
 </p>
 
 <h1 align="center">🌍 TypeRenew Add-ons</h1>
@@ -26,7 +25,11 @@
 
 <h2 id="english">🇬🇧 Complete RTL/LTR Support for TypeRenew</h2>
 
+### 🖼️ Preview
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdulhalim/TypeRenew-Add-ons/refs/heads/main/typerenew_english_preview.webp" alt="TypeRenew English Preview" width="600">
+</p>
 
 ### 📖 Overview
 
@@ -158,7 +161,11 @@ $__isRtl = (bool) preg_match('/^(fa|ar|he|ur|yi)([-_][A-Z]{2})?$/i', $__themeLan
 
 <h2 id="persian">🇮🇷 راه‌حل کامل RTL/LTR برای TypeRenew</h2>
 
+### 🖼️ پیش‌نمایش
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdulhalim/TypeRenew-Add-ons/refs/heads/main/typerenew_persian_preview.webp" alt="پیش‌نمایش فارسی TypeRenew" width="600">
+</p>
 
 ### 📖 معرفی
 
@@ -270,13 +277,11 @@ $__isRtl = (bool) preg_match('/^(fa|ar|he|ur|yi)([-_][A-Z]{2})?$/i', $__themeLan
 | کد CSS/PHP | GPL v2 |
 | فایل‌های زبان | GPL v2 |
 
-
 ### ⭐ سازگاری
 
 - **TypeRenew:** نسخه ۱.۵.۱+
 - **PHP:** ۷.۴+ و ۸.۰+
 - **مرورگرها:** Chrome, Firefox, Edge, Safari (نسخه‌های اخیر)
-
 
 ### 📝 تاریخچه تغییرات
 
